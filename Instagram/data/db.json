@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "gokul_dev",
+      "userProfile": "./src/assets/men1.jpeg",
+      "imageUrl": "./src/assets/code-and-coffee-stockcake.jpg",
+      "caption": "Coding + Coffee = Perfect Combo ☕💻 #developerlife",
+      "likes": 312,
+      "comments": [
+        { "username": "arun_j", "text": "Relatable 😂" },
+        { "username": "deepa_24", "text": "Teach me coding pls 😅" }
+      ],
+      "timestamp": "2025-10-28T19:20:00Z"
+    },
+    {
+      "id": 2,
+      "username": "travel_with_ravi",
+      "userProfile": "./src/assets/men2.jpg",
+      "imageUrl": "./src/assets/images1.jpeg",
+      "caption": "Exploring the Himalayas 🏔️💙 #wanderlust",
+      "likes": 529,
+      "comments": [
+        { "username": "anu_priya", "text": "Breathtaking view 😍" },
+        { "username": "mohan_k", "text": "Take me there bro!" }
+      ],
+      "timestamp": "2025-10-27T06:50:00Z"
+    },
+    {
+      "id": 3,
+      "username": "foodie_riya",
+      "userProfile": "./src/assets/women2.webp",
+      "imageUrl": "./src/assets/pastaImg.webp",
+      "caption": "Homemade pasta night 🍝❤️ #foodlove",
+      "likes": 402,
+      "comments": [
+        { "username": "suresh_21", "text": "Chef vibes 👩‍🍳🔥" },
+        { "username": "kaviyaa", "text": "Save some for me 😂" }
+      ],
+      "timestamp": "2025-10-28T13:45:00Z"
+    },
+    {
+      "id": 4,
+      "username": "artistic_megha",
+      "userProfile": "./src/assets/women3.jpg",
+      "imageUrl": "./src/assets/colorImg.webp",
+      "caption": "Expressing emotions through colors 🎨💫 #artlover",
+      "likes": 284,
+      "comments": [
+        { "username": "rahul_art", "text": "Love your work 👏" },
+        { "username": "diya_99", "text": "So creative ❤️" }
+      ],
+      "timestamp": "2025-10-26T09:15:00Z"
+    }
+  ]
+}
