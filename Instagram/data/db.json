@@ -52,5 +52,27 @@
       ],
       "timestamp": "2025-10-26T09:15:00Z"
     }
+  ],
+  "profile": {
+    "id": 1,
+    "username": "gokul_dev",
+    "userProfile": "./src/assets/men1.jpeg"
+  },
+  "suggestion":[
+    {
+      "id": 2,
+      "username": "travel_with_ravi",
+      "userProfile": "./src/assets/men2.jpg"
+    },
+    {
+      "id": 3,
+      "username": "foodie_riya",
+      "userProfile": "./src/assets/women2.webp"
+    },
+    {
+      "id": 4,
+      "username": "artistic_megha",
+      "userProfile": "./src/assets/women3.jpg"
+    }
   ]
 }
